@@ -1,2 +1,2 @@
 # dadjokes
-A simple project using javascript and getdadjokes api.
+A simple project using html,css, javascript and getdadjokes api.
